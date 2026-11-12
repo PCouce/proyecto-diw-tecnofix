@@ -36,3 +36,19 @@ nav li {
 .servicio {
     width: 100%;
 }
+
+.tutorial {
+    display: flex;
+}
+
+.tutorial article {
+    width: 100%;
+}
+
+.opiniones {
+    display: flex;
+}
+
+.opinion {
+    width: 100%;
+}
